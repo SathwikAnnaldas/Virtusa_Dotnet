@@ -1,3 +1,4 @@
+/*
 WAP to find permutations of a string.
 
 ip1: 
@@ -9,7 +10,8 @@ acb
 bac
 bca
 cab
-cba
+cba 
+*/
 using System;
 class Ken{
 public static void Main()
