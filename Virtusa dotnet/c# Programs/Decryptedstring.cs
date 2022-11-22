@@ -10,12 +10,13 @@ ip1 : a string
 ip2 : n, the position of the character starting from 1
 
 Output Specifications:
-Return the character which occurs at the nu' position in the decrypted string. Return "-1" if no character exists at that place.
+Return the character which occurs at the nu' position in the decrypted string. Return "-1" if no character exists at that place. 
 
 
 ip1 : a1b1c3
 ip2: 5
-op : c
+op : c 
+*/
 class Main{
 public static void Main(string[] args){
 
