@@ -1,4 +1,5 @@
-1) Given an array arr[] denoting heights of N towers and a positive integer K, you have to modify
+/*
+Given an array arr[] denoting heights of N towers and a positive integer K, you have to modify
 the height of each tower either by increasing or decreasing them by K only once. After modifying 
 height should be a non-negative integer.
 
@@ -14,7 +15,8 @@ arr[] = {1,5,8,10}
 
 op:
 Array can be modified as {3,3,6,8}.
-The difference b/w largest and smallest is 8-3=5.
+The difference b/w largest and smallest is 8-3=5. 
+*/
 using System;
 class Ken{
     public static void Main()
