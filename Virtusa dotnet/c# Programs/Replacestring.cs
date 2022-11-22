@@ -1,3 +1,4 @@
+/*
 Replace every character with a 3rd character from a given string.
 
 ip1: Enter a string : 
@@ -7,7 +8,7 @@ op : defg
 ip2 : Enter a string : 
       xza
 op : acd
-
+*/
 using System;
 class Ken{
 public static void Main(){
