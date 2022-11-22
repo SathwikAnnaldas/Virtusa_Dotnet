@@ -1,9 +1,10 @@
+/*
 Write a program for leader board position
 input1:11
 input2:21 19 20 18 17 19 16 15 9 11 1      
 output: 11 15 16 19 20 21 
 
-
+*/
 using System;
  
 public class HelloWorld
