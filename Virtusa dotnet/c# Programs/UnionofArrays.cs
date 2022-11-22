@@ -1,3 +1,4 @@
+/*
 Program to find unnion of two arrays
 ip1: 5
 2 3 4 7 1
@@ -5,7 +6,7 @@ ip1: 5
 4 1 3 5
 
 1 2 3 4 5 7
-
+*/
 
 using System;
  
